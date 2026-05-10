@@ -18,13 +18,7 @@
 如果已经部署到 GitHub Pages，可以在这里填写你的访问地址：
 
 ```text
-https://你的GitHub用户名.github.io/你的仓库名/
-```
-
-例如：
-
-```text
-https://username.github.io/Journal-Ranking-Search_BIT/
+https://github.com/xhgxtygf/Journal-Ranking-Search_BIT.git
 ```
 
 ---
